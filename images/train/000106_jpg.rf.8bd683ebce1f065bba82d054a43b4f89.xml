@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>000106_jpg.rf.8bd683ebce1f065bba82d054a43b4f89.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\000106_jpg.rf.8bd683ebce1f065bba82d054a43b4f89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>959</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>15</ymin>
+			<xmax>403</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>
