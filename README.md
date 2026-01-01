@@ -19,7 +19,3 @@ This repository contains a computer vision project aimed at detecting whether in
 ## Conclusion
 
 This project serves as a practical tool for enhancing safety protocols in construction sites by ensuring compliance with helmet-wearing regulations. By leveraging advanced computer vision techniques, it provides a reliable solution to monitor and enforce safety measures. 🏗️🔍
-
-## Disclaimer
-
-This repository was created as part of the final project for the Hacktiv8 Data Science Bootcamp in 2021. 📅 As such, there may be limitations or outdated methods used in this project. Your understanding and patience are appreciated. 🙏
